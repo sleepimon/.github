@@ -18,4 +18,4 @@ He earned his Ph.D. in Statistics from the University of Waterloo in 2023, follo
 
 Applications span drug discovery and development, toxicology, neuroscience, cosmic ray studies, and sports. Our work connects statistical theory with practical, reproducible computational tools.
 
-[Research & publications](https://chikuang.github.io/) · [People](https://chikuang.github.io/group/) · [Software](https://chikuang.github.io/software/) · [ORCID](https://orcid.org/0000-0001-7057-2096)
+[Research & publications](https://chikuang.github.io/) · [People](https://chikuang.github.io/group/) · [Software](https://chikuang.github.io/softwares/) · [ORCID](https://orcid.org/0000-0001-7057-2096)
